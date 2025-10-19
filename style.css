@@ -178,3 +178,13 @@ body {
   color: white;
   margin-top: 2rem;
 }
+
+img{
+	height: 250px;
+	width: 200px;
+	border: 1px ;
+	margin:10px;
+	border-radius: 5%;
+	box-shadow: 2px 5px;
+	float: right;
+}
